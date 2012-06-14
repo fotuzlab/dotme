@@ -1,7 +1,0 @@
-name = Homebox OG
-description = Provides integration with Organic Groups and Homebox
-dependencies[] = homebox
-dependencies[] = og
-package = Homebox
-core = 7.x
-configure = admin/config/group/homebox
